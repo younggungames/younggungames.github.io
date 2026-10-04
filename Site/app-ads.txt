@@ -1,1 +1,0 @@
-# AdMob 게시자 ID를 받으면 아래에 AdMob이 알려 주는 줄을 넣는다: google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
